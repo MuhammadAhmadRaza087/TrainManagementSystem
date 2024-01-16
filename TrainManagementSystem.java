@@ -11,7 +11,7 @@ import java.util.InputMismatchException;  //For Exception Handling
 import java.util.Scanner; //For Scanner class
 
 
-public class ParitialFunctional {
+public class TrainManagementSystem {
     public static Scanner input = new Scanner(System.in);
 
     public static void main(String[] args) throws Exception {
