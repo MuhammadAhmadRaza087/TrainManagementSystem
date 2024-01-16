@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project is a Java-based Train Management System developed as a semester project by [Your Group Name]. The system provides functionalities for both administrators and passengers to manage train-related information, including adding, viewing, updating, and deleting trains and journeys, as well as booking and canceling tickets.
+This project is a Java-based Train Management System developed as a semester project by the Alpha group. The system provides functionalities for both administrators and passengers to manage train-related information, including adding, viewing, updating, and deleting trains and journeys, as well as booking and canceling tickets.
 
 ## Table of Contents
 
